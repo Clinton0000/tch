@@ -1,0 +1,3 @@
+rootProject.name = "tcheumj"
+include "tcheumj-core"
+
